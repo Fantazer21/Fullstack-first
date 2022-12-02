@@ -9,7 +9,7 @@ export default function Home() {
     console.log(count)
   return (
           <div className={styles.container}>
-              <div> Hello world</div>
+              <div> Hello world!</div>
           </div>
   )
 }
